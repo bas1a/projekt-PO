@@ -1,3 +1,1 @@
-# projekt-PO
-#Przedmiot: Programowanie obiektowe
-#Autor: Barbara Sławińska
+# projekt-PO / Barbara Sławińska
